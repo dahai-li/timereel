@@ -1,0 +1,1 @@
+Time Reel is an intelligent automatic backup tool, that automatically backup your files like - documents, pictures, songs, videos, etc. If for some reason you lost or deleted something, then you can virtually go back in time and recover!
